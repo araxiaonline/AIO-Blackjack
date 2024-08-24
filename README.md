@@ -4,10 +4,9 @@
 
 This project implements a custom Blackjack game for a for AzerothCore with Eluna and it uses AIO. The game is hosted by a custom NPC, and players can interact with the NPC to play Blackjack directly in the game.
 
-**Requires: AIO**
-
-> **Tip**  
-> **What is AIO?** AIO is a library that allows messaging from the core server and game client. This allows developers to build and deploy server-side UI changes as if they were AddOns without requiring a user to install anything. Modules in this repo that have `.client` and `.server` are AIO based modules.
+In order to use these modules you will need to have:
+- AzerothCore Server with mod_eluna installed.
+- [Rochet2 AIO](https://github.com/Rochet2/AIO)
 
 
 ## Installation
