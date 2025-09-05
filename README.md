@@ -107,7 +107,7 @@ This project includes custom assets (card images, sounds, etc.) inside the **`MP
 ### 5. Credits
 
 - **Custom NPC Script:** Manmadedrummer, Araxia Devs
-- **Assets and Sounds:** Custom Assets made by Manmadedrumemr with ChatGPT
+- **Assets and Sounds:** Custom Assets made by Manmadedrummer with ChatGPT
 - **Annotation in scripts by _ChatGPT (I was too lazy to write them lol)_**
 
 ## 🛠 Tech Stack
