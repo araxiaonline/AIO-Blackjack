@@ -1,15 +1,40 @@
-# AIO-Blackjack - Araxia
+# 🎲 AIO-Blackjack - Araxia
+
+Hosted by **Lord Foldemort** 🧙‍♂️  
 
 ![Lua](https://img.shields.io/badge/Lua-5.1-blue.svg)
 ![AzerothCore](https://img.shields.io/badge/AzerothCore-Eluna-green)
+![AIO](https://img.shields.io/badge/Uses-Rochet2%20AIO-blueviolet)
 
-## Overview
+---
 
-This project implements a custom Blackjack game for a for AzerothCore with Eluna and it uses AIO. The game is hosted by a NPC named Lord Foldemort, and players can interact with the NPC to play Blackjack directly in the game.
+## 📖 Overview
 
-In order to use these modules you will need to have:
-- AzerothCore Server with mod_eluna installed.
-- [Rochet2 AIO](https://github.com/Rochet2/AIO)
+This project implements a custom **Blackjack game** for [AzerothCore](https://www.azerothcore.org/) using **Eluna** and **Rochet2’s AIO** framework.  
+The game is hosted by an NPC named **Lord Foldemort**, and players can challenge him to Blackjack directly inside the game client.
+
+---
+
+## 🛠 Requirements
+
+To run this module, you’ll need:
+
+- [AzerothCore Server](https://www.azerothcore.org/) with [mod-eluna](https://github.com/azerothcore/mod-eluna) installed  
+- [Rochet2 AIO](https://github.com/Rochet2/AIO)  
+
+---
+
+## 📦 Installation
+
+### 1. Copy Files
+
+#### Lua Scripts
+Place both Lua scripts in your server’s `lua_scripts/` folder:
+
+```bash
+lua_scripts/BlackjackServer.lua
+lua_scripts/BlackjackClient.lua
+
 
 
 ## Installation
