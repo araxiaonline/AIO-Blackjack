@@ -3,7 +3,8 @@
 Hosted by **Lord Foldemort** 🧙‍♂️  
 
 ![Lua](https://img.shields.io/badge/Lua-5.1-blue.svg)
-![AzerothCore](https://img.shields.io/badge/AzerothCore-Eluna-green)
+[![Eluna](https://img.shields.io/badge/Eluna-Scripting-blue?logo=lua)](https://github.com/azerothcore/eluna)
+[![AzerothCore](https://img.shields.io/badge/AzerothCore-WoW%20Server-red?logo=worldofwarcraft)](https://github.com/azerothcore/azerothcore-wotlk)
 ![AIO](https://img.shields.io/badge/Uses-Rochet2%20AIO-blueviolet)
 
 ---
