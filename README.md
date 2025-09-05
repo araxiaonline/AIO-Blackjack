@@ -1,5 +1,8 @@
 # AIO-Blackjack - Araxia
 
+![Lua](https://img.shields.io/badge/Lua-5.1-blue.svg)
+![AzerothCore](https://img.shields.io/badge/AzerothCore-Eluna-green)
+
 ## Overview
 
 This project implements a custom Blackjack game for a for AzerothCore with Eluna and it uses AIO. The game is hosted by a NPC named Lord Foldemort, and players can interact with the NPC to play Blackjack directly in the game.
@@ -63,4 +66,11 @@ Make sure any custom assets (like card images and sounds) are placed in the appr
 - **Custom NPC Script:** Manmadedrummer, Araxia Devs
 - **Assets and Sounds:** Custom Assets made by Manmadedrumemr with ChatGPT
 - **Annotation in scripts by _ChatGPT (I was too lazy to write them lol)_**
+
+## 🛠 Tech Stack
+
+- [AzerothCore](https://www.azerothcore.org/) – Open-source MMO framework
+- [Eluna](https://github.com/azerothcore/mod-eluna) – Lua engine for AzerothCore
+- [AIO by Rochet2](https://github.com/Rochet2/AIO) – Client-Server communication for WoW
+
 
