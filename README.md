@@ -58,7 +58,7 @@ Copy the provided SQL file to your server's database. This file includes the nec
 
 1. **Place the Lua Scripts:**
    - Copy the `BlackjackServer.lua` script into your server's `scripts` directory (typically found in `lua_scripts` or a similar directory).
-   - Copy the `BlackjackClient.lua` script into your client's `Interface/AddOns/` directory or where your client-side scripts are stored.
+   - Copy the `BlackjackClient.lua` script into your rver's `scripts` directory (typically found in `lua_scripts` or a similar directory).
    - 
 *NOTE: I Personally have both of my scripts in my `lua_scripts` folder.*
 
