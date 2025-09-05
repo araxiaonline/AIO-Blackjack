@@ -31,10 +31,10 @@ To run this module, you’ll need:
 #### Lua Scripts
 Place both Lua scripts in your server’s `lua_scripts/` folder:
 
-```bash
+```
 lua_scripts/BlackjackServer.lua
 lua_scripts/BlackjackClient.lua
-
+```
 
 
 ## Installation
