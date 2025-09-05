@@ -82,9 +82,27 @@ Copy the provided SQL file to your server's database. This file includes the nec
 
 ### 4. Custom Assets
 
-Make sure any custom assets (like card images and sounds) are placed in the appropriate directories on both the client and server. For example:
+This project includes custom assets (card images, sounds, etc.) inside the **`MPQ/`** folder in this repository.  
 
-- **Card Images:** Should be placed in `Interface\Cards\`
+#### Installation
+1. Take the provided **MPQ folder** and pack it into a custom patch file (e.g. `patch-A.MPQ`).  
+2. Place the MPQ into your WoW client’s `Data` directory.  
+   ~~~
+   World of Warcraft\Data\patch-A.MPQ
+   ~~~
+3. The MPQ already contains the correct directory structure:  
+   ~~~
+   Interface\Cards\
+   Sound\Blackjack\
+   ~~~
+   So you don’t need to rearrange anything.
+
+#### Notes
+- You may rename the MPQ (`patch-A`, `patch-B`, etc.) but ensure it doesn’t conflict with existing patches.  
+- Without this MPQ installed, card textures and sounds will not appear in-game.  
+
+
+
 
 ### 5. Credits
 
